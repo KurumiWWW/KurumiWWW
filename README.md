@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[✨ ForteScarlet's stars ✨](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=ForteScarlet)
+![✨ ForteScarlet's stars ✨](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=ForteScarlet)
