@@ -27,4 +27,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![✨ ForteScarlet's stars ✨](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=ForteScarlet)
+
+![✨ ForteScarlet's stars ✨](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ForteScarlet)
