@@ -10,7 +10,7 @@
 
 我的bilibili: https://space.bilibili.com/2714954/
 
-我可爱的微信公众号：法欧特的杂谈小铺
+我几乎不怎么更新的可爱微信公众号：法欧特的杂谈小铺
 
 ![](https://s1.ax1x.com/2020/09/10/wYQC6K.md.png)
 
