@@ -6,7 +6,7 @@
 
 感谢你能够来到我的github~
 
-你可以通过 [⚡爱发电⚡](https://afdian.net/@ForteScarlet) 对我进行支持并收获我的感谢! 
+你可以通过 [⚡支持与赞助⚡](https://www.yuque.com/simpler-robot/simpler-robot-doc/bk6t43) 对我进行支持并收获我的感谢! 
 
 我的同名gitee: https://gitee.com/ForteScarlet 
 
