@@ -6,9 +6,9 @@
 
 感谢你能够来到我的github~
 
-你可以通过 [⚡支持与赞助⚡](https://www.yuque.com/simpler-robot/simpler-robot-doc/bk6t43) 对我进行支持并收获我的感谢! 
+你可以通过 [⚡支持与赞助⚡](https://www.yuque.com/simpler-robot/simpler-robot-doc/bk6t43) 对我进行赞助并收获我的感谢! 
 
-我的同名gitee: https://gitee.com/ForteScarlet 
+我的gitee: https://gitee.com/ForteScarlet 
 
 我的bilibili: https://space.bilibili.com/2714954/
 
