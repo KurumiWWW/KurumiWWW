@@ -12,7 +12,16 @@
 
 我几乎不怎么更新的可爱微信公众号：法欧特的杂谈小铺
 
-![](https://s1.ax1x.com/2020/09/10/wYQC6K.md.png)
+
+![](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient "✨ ForteScarlet's stars ✨")
+
+<!--
+![](https://s1.ax1x.com/2020/09/10/wYQC6K.md.png "公众号")
+-->
+<img href="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" align="right" alt="✨ ForteScarlet's stars ✨" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet)
+
 
 <!--
 **ForteScarlet/ForteScarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +38,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![✨ ForteScarlet's stars ✨](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet)
 
