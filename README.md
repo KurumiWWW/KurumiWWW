@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>
+
 我正在创作各式各样的代码与爱~
 
 感谢你能够来到我的github~
@@ -11,6 +13,8 @@
 我的bilibili: https://space.bilibili.com/2714954/
 
 我几乎不怎么更新的可爱微信公众号：法欧特的杂谈小铺
+
+</p>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient "✨ ForteScarlet's stars ✨")
