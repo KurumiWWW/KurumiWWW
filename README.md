@@ -15,7 +15,8 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient "✨ ForteScarlet's stars ✨")
 -->
-<img href="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient" align="right" alt="✨ ForteScarlet's stars ✨" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient" align="right" alt="✨ ForteScarlet's stars ✨" />
 
 
 ![](https://s1.ax1x.com/2020/09/10/wYQC6K.md.png "公众号")
