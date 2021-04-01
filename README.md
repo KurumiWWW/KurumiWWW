@@ -26,7 +26,7 @@
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&hide=html)
 
 
 <!--
