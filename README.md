@@ -12,13 +12,14 @@
 
 我几乎不怎么更新的可爱微信公众号：法欧特的杂谈小铺
 
-
-![](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient "✨ ForteScarlet's stars ✨")
-
 <!--
-![](https://s1.ax1x.com/2020/09/10/wYQC6K.md.png "公众号")
+![](https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient "✨ ForteScarlet's stars ✨")
 -->
-<img href="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" align="right" alt="✨ ForteScarlet's stars ✨" />
+<img href="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient" align="right" alt="✨ ForteScarlet's stars ✨" />
+
+
+![](https://s1.ax1x.com/2020/09/10/wYQC6K.md.png "公众号")
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet)
 
