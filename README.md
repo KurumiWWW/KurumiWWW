@@ -3,8 +3,8 @@
 <p>
 
 我正在创作各式各样的代码与爱~
-
-感谢你能够来到我的github~
+  
+你好! 这里是从来不写有用代码的Forte, 感谢你能够来到我的github~
 
 你可以通过 [⚡支持与赞助⚡](https://www.yuque.com/simpler-robot/simpler-robot-doc/bk6t43) 对我进行赞助并收获我的感谢! 
 
