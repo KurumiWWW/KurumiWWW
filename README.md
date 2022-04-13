@@ -41,33 +41,33 @@
 -->
 <p align="center">
   
-<a hrf="https://www.java.com/">
+<a href="https://www.java.com/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
 </a>
   
     
-<a hrf="https://kotlinlang.org/">
+<a href="https://kotlinlang.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="kotlin" width="60" height="60" />
 </a>
   
     
- <a hrf="https://maven.apache.org/">
+ <a href="https://maven.apache.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/maven.svg" alt="maven" width="60" height="60" />
  </a>
   
- <a hrf="https://gradle.org/">
+ <a href="https://gradle.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/gradle.svg" alt="maven" width="60" height="60" />
  </a>
   
-<a hrf="https://spring.io/">
+<a href="https://spring.io/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="spring" width="60" height="60" />
 </a>
 
-<a hrf="https://www.jetbrains.com/?from=simpler-robot">
+<a href="https://www.jetbrains.com/?from=simpler-robot">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="intellij-idea" width="60" height="60" />
 </a>
     
-<a hrf="https://www.jetbrains.com/?from=simpler-robot">
+<a href="https://www.jetbrains.com/?from=simpler-robot">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="jetbrains" width="60" height="60" />
 </a>
   
