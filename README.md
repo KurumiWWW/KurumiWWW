@@ -29,8 +29,10 @@
 
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient&bg_color=FE0000,d299c2,fef9d7" alt="✨ ForteScarlet's stars ✨" height="150em"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&show_icons=true&layout=compact&bg_color=FE0000,fef9d7,d299c2" height="150em" />
+  <!--&bg_color=FE0000,d299c2,fef9d7-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight" alt="✨ ForteScarlet's stars ✨" height="150em"  />
+  <!--&bg_color=FE0000,fef9d7,d299c2-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact" height="150em" />
   
 </div>
 
