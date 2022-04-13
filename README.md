@@ -7,8 +7,8 @@
 
 <div>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient&bg_color=FE0000,FFAFAF,F6FD9F" alt="✨ ForteScarlet's stars ✨" />
 
+<img align="right" src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="180" />
 
   我正在创作各式各样的代码与爱~
 
@@ -29,8 +29,9 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&layout=compact" height="180" />
-  <img align="center" src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient&bg_color=FE0000,FFAFAF,F6FD9F" alt="✨ ForteScarlet's stars ✨" height="200"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&layout=compact" height="200" />
+  
 </div>
 
 <hr />
