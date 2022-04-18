@@ -18,7 +18,7 @@
   
   我的gitee: https://gitee.com/ForteScarlet 
 
-  我的bilibili: https://space.bilibili.com/2714954/
+  我的bilibili: https://space.bilibili.com/2714954
 
 </div>
  
@@ -30,9 +30,9 @@
 
 <div align="center">
   <!--&bg_color=FE0000,d299c2,fef9d7-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight" alt="✨ ForteScarlet's stars ✨" height="150em"  />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight" alt="✨ ForteScarlet's stars ✨" height="180em"  />
   <!--&bg_color=FE0000,fef9d7,d299c2-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact" height="150em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact" height="180em" />
   
 </div>
 
@@ -65,6 +65,14 @@
    <img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="spring" width="60" height="60" />
 </a>
 
+<a href="https://www.mysql.com/">
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="mysql" width="60" height="60" />
+</a>
+  
+<a href="https://redis.io/">
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="redis" width="60" height="60" />
+</a> 
+  
 <a href="https://www.jetbrains.com/?from=simpler-robot">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="intellij-idea" width="60" height="60" />
 </a>
