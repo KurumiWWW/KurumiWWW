@@ -80,6 +80,10 @@
 <a href="https://www.jetbrains.com/?from=simpler-robot">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="jetbrains" width="60" height="60" />
 </a>
+      
+<a href="https://github.com/ForteScarlet">
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" width="60" height="60" />
+</a>
   
 </p>
 
