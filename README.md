@@ -12,7 +12,7 @@
 
   我正在创作各式各样的代码与爱~
 
-  你好! 欢迎你能够来到我的GitHub~
+  你好! 欢迎你来到我的GitHub~
 
   你可以通过 [⚡支持与赞助⚡](https://www.yuque.com/simpler-robot/simpler-robot-doc/bk6t43) 对我进行赞助并收获我的感谢! 
   
