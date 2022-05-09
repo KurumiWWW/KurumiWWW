@@ -1,24 +1,27 @@
-<!-- <style>
-* {
-  padding:0;
-  margin:0
-}
-.icons a {
-  margin:0 10px;
-}
-.name{
-  text-align:center;
-  font-weight:bold;
-  font-size:50px;
-  background-image: linear-gradient(to right, #667eea, #764ba2);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-.info{
-  display:flex;
-  justify-content:space-evenly;
-}
-</style> -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link rel="stylesheet" type="text/css" href="./style.css">
+<style>
+  * {
+  padding: 0;
+  margin: 0;
+  }
+  .icons a {
+    margin: 0 10px;
+  }
+  .name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-image: linear-gradient(to right, #667eea, #764ba2);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .info {
+    display: flex;
+    justify-content: space-evenly;
+  }
+</style>
 <div class="name">
 KurumiWWW
 </div>
