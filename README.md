@@ -1,41 +1,41 @@
 <hr />
 <div class="icons" align="center">
   <div class="row">
-    <a style="margin: 0 10px;" href="https://www.w3.org/TR/html5/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"  width="60" height="60" />
+    <a href="https://www.w3.org/TR/html5/">
+      <img src="./public/images/html-5.svg"  width="60" height="60" />
     </a>
-    <a style="margin: 0 10px;" href="https://www.w3.org/TR/CSS/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg"  width="60" height="60" />
+    <a href="https://www.w3.org/TR/CSS/">
+      <img src="./public/images/css-3.svg"  width="60" height="60" />
     </a>
-    <a style="margin: 0 10px;" href="https://www.typescriptlang.org/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  width="60" height="60" />
+    <a href="https://www.typescriptlang.org/">
+      <img src="./public/images/typescript-icon.svg"  width="60" height="60" />
     </a>
-    <a style="margin: 0 10px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  width="60" height="60" />
-    </a>
-  </div>
-  <br />
-  <div class="row">
-    <a style="margin: 0 10px;" href="https://nodejs.org/en/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg"  width="60" height="60" />
-    </a>
-    <a style="margin: 0 10px;" href="http://webpack.github.io/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg"  width="60" height="60" />
-    </a>
-    <a style="margin: 0 10px;" href="https://vuejs.org/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"  width="60" height="60" />
-    </a>
-    <a style="margin: 0 10px;" href="https://vitejs.dev/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg"  width="60" height="60" />
-    </a>
-    <a style="margin: 0 10px;" href="https://reactjs.org/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"  width="60" height="60" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="./public/images/javascript.svg"  width="60" height="60" />
     </a>
   </div>
   <br />
   <div class="row">
-    <a style="margin: 0 10px;" href="https://code.visualstudio.com/">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg"  width="60" height="60" />
+    <a href="https://nodejs.org/en/">
+      <img src="./public/images/nodejs-icon.svg"  width="60" height="60" />
+    </a>
+    <a href="http://webpack.github.io/">
+      <img src="./public/images/webpack.svg"  width="60" height="60" />
+    </a>
+    <a href="https://vuejs.org/">
+      <img src="./public/images/vue.svg"  width="60" height="60" />
+    </a>
+    <a href="https://vitejs.dev/">
+      <img src="./public/images/vite.svg"  width="60" height="60" />
+    </a>
+    <a href="https://reactjs.org/">
+      <img src="./public/images/react.svg"  width="60" height="60" />
+    </a>
+  </div>
+  <br />
+  <div class="row">
+    <a href="https://code.visualstudio.com/">
+      <img src="./public/images/visual-studio-code.svg"  width="60" height="60" />
     </a>
   </div>
   </div>
