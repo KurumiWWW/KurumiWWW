@@ -1,5 +1,5 @@
-<div style="text-align: center" class="name">
-<a href="https://kurumiwww.github.io/Notebook/" style="font-weight: bold;font-size: 50px">KurumiWWW</a>
+<div style="text-align: center;font-weight: bold;font-size: 50px" class="name">
+  KurumiWWW
 </div>
 <hr />
 <div class="icons" align="center">
