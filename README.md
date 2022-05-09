@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 * {
   padding:0;
   margin:0
@@ -18,7 +18,7 @@
   display:flex;
   justify-content:space-evenly;
 }
-</style>
+</style> -->
 <div class="name">
 KurumiWWW
 </div>
