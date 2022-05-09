@@ -1,6 +1,3 @@
-<p style="text-align: center;font-weight: bold;font-size: 50px" class="name">
-  KurumiWWW
-</p>
 <hr />
 <div class="icons" align="center">
   <div class="row">
