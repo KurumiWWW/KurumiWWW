@@ -1,73 +1,56 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<link rel="stylesheet" type="text/css" href="./style.css">
-<style>
-  * {
-  padding: 0;
-  margin: 0;
-  }
-  .icons a {
-    margin: 0 10px;
-  }
-  .name {
-    text-align: center;
+<div style="text-align: center" class="name">
+<a href="https://kurumiwww.github.io/Notebook/" style="
     font-weight: bold;
     font-size: 50px;
     background-image: linear-gradient(to right, #667eea, #764ba2);
     -webkit-background-clip: text;
-    color: transparent;
-  }
-  .info {
-    display: flex;
-    justify-content: space-evenly;
-  }
-</style>
-<div class="name">
-KurumiWWW
+    color: transparent;">KurumiWWW</a>
 </div>
 <hr />
 <div class="icons" align="center">
   <div class="row">
-    <a href="https://www.w3.org/TR/html5/">
+    <a style="margin: 0 10px;" href="https://www.w3.org/TR/html5/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"  width="60" height="60" />
     </a>
-    <a href="https://www.w3.org/TR/CSS/">
+    <a style="margin: 0 10px;" href="https://www.w3.org/TR/CSS/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg"  width="60" height="60" />
     </a>
-    <a href="https://www.typescriptlang.org/">
+    <a style="margin: 0 10px;" href="https://www.typescriptlang.org/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  width="60" height="60" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <a style="margin: 0 10px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  width="60" height="60" />
     </a>
   </div>
   <br />
   <div class="row">
-    <a href="https://nodejs.org/en/">
+    <a style="margin: 0 10px;" href="https://nodejs.org/en/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg"  width="60" height="60" />
     </a>
-    <a href="http://webpack.github.io/">
+    <a style="margin: 0 10px;" href="http://webpack.github.io/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg"  width="60" height="60" />
     </a>
-    <a href="https://vuejs.org/">
+    <a style="margin: 0 10px;" href="https://vuejs.org/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"  width="60" height="60" />
     </a>
-    <a href="https://vitejs.dev/">
+    <a style="margin: 0 10px;" href="https://vitejs.dev/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg"  width="60" height="60" />
     </a>
-    <a href="https://reactjs.org/">
+    <a style="margin: 0 10px;" href="https://reactjs.org/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"  width="60" height="60" />
     </a>
   </div>
   <br />
   <div class="row">
-    <a href="https://code.visualstudio.com/">
+    <a style="margin: 0 10px;" href="https://code.visualstudio.com/">
       <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg"  width="60" height="60" />
     </a>
   </div>
   </div>
 <hr />
-<div class="info">
+<div class="info" style="
+    display: flex;
+    justify-content: space-evenly;">
   <!--&bg_color=FE0000,d299c2,fef9d7-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurumiWWW&show_icons=true&theme=tokyonight" alt="✨ KurumiWWW's stars ✨" height="180em"  />
   <!--&bg_color=FE0000,fef9d7,d299c2-->
