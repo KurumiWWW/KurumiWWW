@@ -1,6 +1,6 @@
-<div style="text-align: center;font-weight: bold;font-size: 50px" class="name">
+<p style="text-align: center;font-weight: bold;font-size: 50px" class="name">
   KurumiWWW
-</div>
+</p>
 <hr />
 <div class="icons" align="center">
   <div class="row">
