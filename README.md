@@ -44,9 +44,9 @@
     display: flex;
     justify-content: space-evenly;">
   <!--&bg_color=FE0000,d299c2,fef9d7-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurumiWWW&show_icons=true&theme=tokyonight" alt="✨ KurumiWWW's stars ✨" height="180em"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KurumiWWW&show_icons=true&theme=radical" alt="✨ KurumiWWW's stars ✨" height="180em"  />
   <!--&bg_color=FE0000,fef9d7,d299c2-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumiWWW&theme=tokyonight&show_icons=true&layout=compact" height="180em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurumiWWW&theme=radical&show_icons=true&layout=compact" height="180em" />
 
 </div>
 <hr />
