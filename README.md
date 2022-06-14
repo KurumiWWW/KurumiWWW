@@ -2,40 +2,38 @@
 <div class="icons" align="center">
   <div class="row">
     <a href="https://www.w3.org/TR/html5/">
-      <img src="./public/images/html-5.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="60" height="60" />
     </a>
     <a href="https://www.w3.org/TR/CSS/">
-      <img src="./public/images/css-3.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3"  width="60" height="60" />
     </a>
     <a href="https://www.typescriptlang.org/">
-      <img src="./public/images/typescript-icon.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/typescript-icon.svg"  alt="typescript"
+      width="60" height="60" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="./public/images/javascript.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript"  width="60" height="60" />
     </a>
   </div>
   <br />
   <div class="row">
     <a href="https://nodejs.org/en/">
-      <img src="./public/images/nodejs-icon.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="60" height="60" />
     </a>
     <a href="http://webpack.github.io/">
-      <img src="./public/images/webpack.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="webpack" width="60" height="60" />
     </a>
     <a href="https://vuejs.org/">
-      <img src="./public/images/vue.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue"  width="60" height="60" />
     </a>
     <a href="https://vitejs.dev/">
-      <img src="./public/images/vite.svg"  width="60" height="60" />
-    </a>
-    <a href="https://reactjs.org/">
-      <img src="./public/images/react.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite"  width="60" height="60" />
     </a>
   </div>
   <br />
   <div class="row">
     <a href="https://code.visualstudio.com/">
-      <img src="./public/images/visual-studio-code.svg"  width="60" height="60" />
+      <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode"  width="60" height="60" />
     </a>
   </div>
   </div>
